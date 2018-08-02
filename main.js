@@ -1,1 +1,1 @@
-var content = 0;
+var content = 'play';
